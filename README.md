@@ -11,7 +11,7 @@ I'm a Backend Focused Software Engineer who loves to explore the vast world of p
 Here's a list of technologies and tools I frequently work with:
 
 - Programming Languages: JavaScript, TypeScript
-- Web Development: HTML, CSS, JavaScript, React, Node.js
+- Web Development: Node.js, Express js, Nest js, React js
 - Databases: PostgreSQL, MySQL, MSSQL, MongoDB
 - Version Control: Git, GitHub
 - Other Tools: Docker, AWS
