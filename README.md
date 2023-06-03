@@ -13,8 +13,8 @@ Here's a list of technologies and tools I frequently work with:
 - Programming Languages: JavaScript, TypeScript
 - Web Development: Node.js, Express js, Nest js, React js
 - Databases: PostgreSQL, MySQL, MSSQL, MongoDB
-- Version Control: Git, GitHub
-- Other Tools: Docker, AWS
+- Version Control: Git
+- Other Tools: Docker, AWS, Redis, Messaging Queues(RabbitMq, BullMq)
 
 ## What You'll Find Here
 
