@@ -4,7 +4,7 @@ Hey there! Welcome to my GitHub profile. I'm thrilled to have you here. Let me t
 
 ## About Me
 
-I'm a Backend Focused Software Engineer who loves to explore the vast world of programming. My curiosity drives me to learn new technologies and tackle exciting challenges. Whether it's crafting elegant code or building innovative solutions, I strive to deliver excellence in everything I do.
+I'm a Full Stack Backend Focused Software Engineer who loves to explore the vast world of programming. My curiosity drives me to learn new technologies and tackle exciting challenges. Whether it's crafting elegant code or building innovative solutions, I strive to deliver excellence in everything I do.
 
 ## Tech Stack
 
