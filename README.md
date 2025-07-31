@@ -14,7 +14,7 @@ Here's a list of technologies and tools I frequently work with:
 - Web Development: Node.js, Express js, Nest js, React js
 - Databases: PostgreSQL, MySQL, MSSQL, MongoDB
 - Version Control: Git
-- Other Tools: Docker, AWS, Redis, Messaging Queues(RabbitMq, BullMq)
+- Other Tools: Docker, AWS, Terraform, Datadog, Redis, Messaging Queues(RabbitMq, BullMq)
 
 ## What You'll Find Here
 
