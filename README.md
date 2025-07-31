@@ -27,6 +27,6 @@ I'm always excited to connect with fellow developers, enthusiasts, and learners.
 - **Email**: [blessingmakaraba@gmail.com](mailto:blessingmakaraba@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/blessing-makaraba-85329215a/)
 
-Don't hesitate to drop me a line. I look forward to hearing from you and exploring the incredible world of software development together!
+Don't hesitate to drop me a line. I look forward to hearing from you and exploring the incredible world of building products together!
 
-Cheers to building Awesome Products! 🚀
+Cheers to building awesome products! 🚀
